@@ -28,7 +28,7 @@ Cada repositorio documenta una automatización en producción dentro de los proc
 
 ## 👥 Equipo
 
-Organización interna — Biblioteca · Fundación Universitaria del Área Andina · Pereira, Colombia.
+Organización interna — Biblioteca · Fundación Universitaria del Área Andina · Bogota · Pereira · Valledupar
 
 ---
 
