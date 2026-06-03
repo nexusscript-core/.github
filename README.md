@@ -1,12 +1,12 @@
 # 🤖 nexusscript-core
 
-Repositorio central de automatizaciones institucionales desarrolladas con **Google Apps Script** para el ecosistema **G-Suite de Areandina**.
+Repositorio central de automatizaciones institucionales desarrolladas con **Google Apps Script** para el ecosistema **G-Suite** del **área de Biblioteca — Areandina**.
 
 ---
 
 ## 📌 ¿Qué encontrarás aquí?
 
-Cada repositorio de esta organización documenta una automatización en producción: su código fuente, cómo está configurada, con qué servicios se conecta y cómo replicarla en otro entorno institucional.
+Cada repositorio documenta una automatización en producción dentro de los procesos bibliotecarios: su código fuente, cómo está configurada, con qué servicios se conecta y cómo replicarla en otro entorno institucional.
 
 ---
 
@@ -28,7 +28,7 @@ Cada repositorio de esta organización documenta una automatización en producci
 
 ## 👥 Equipo
 
-Organización interna — Fundación Universitaria del Área Andina · Pereira, Colombia.
+Organización interna — Biblioteca · Fundación Universitaria del Área Andina · Pereira, Colombia.
 
 ---
 
